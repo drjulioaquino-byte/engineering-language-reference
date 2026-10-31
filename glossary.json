@@ -1,0 +1,156 @@
+{
+  "format_version": 1,
+  "status": "EDITORIAL_WORKING_GLOSSARY",
+  "entries": [
+    {
+      "term": "requirement",
+      "definition_en": "A stated condition or capability that a system or process must satisfy.",
+      "explanation_pt": "Uma condição ou capacidade declarada que o sistema ou processo deve satisfazer.",
+      "source_files": [
+        "references/sevocab/requirement.json"
+      ],
+      "source_status": "EDITORIAL_WITH_SOURCE_CONTEXT"
+    },
+    {
+      "term": "verification",
+      "definition_en": "Assess, with objective evidence, whether specified requirements are satisfied.",
+      "explanation_pt": "Avaliar, com evidências objetivas, se os requisitos especificados foram atendidos.",
+      "source_files": [
+        "references/sevocab/verification.json"
+      ],
+      "source_status": "EDITORIAL_WITH_SOURCE_CONTEXT"
+    },
+    {
+      "term": "validation",
+      "definition_en": "Assess whether a system meets its intended use in the stated context.",
+      "explanation_pt": "Avaliar se o sistema atende ao uso pretendido no contexto declarado.",
+      "source_files": [
+        "references/sevocab/validation.json"
+      ],
+      "source_status": "EDITORIAL_WITH_SOURCE_CONTEXT"
+    },
+    {
+      "term": "failure",
+      "definition_en": "An observed departure of system behavior from its stated requirements.",
+      "explanation_pt": "Um desvio observado do comportamento do sistema em relação aos requisitos declarados.",
+      "source_files": [
+        "references/sevocab/failure.json"
+      ],
+      "source_status": "EDITORIAL_WITH_SOURCE_CONTEXT"
+    },
+    {
+      "term": "fault",
+      "definition_en": "An inability to perform as required due to an internal state, in the selected assurance context.",
+      "explanation_pt": "Uma incapacidade de cumprir o exigido devido a um estado interno, no contexto de garantia selecionado.",
+      "source_files": [
+        "references/sevocab/fault.json"
+      ],
+      "source_status": "EDITORIAL_WITH_SOURCE_CONTEXT"
+    },
+    {
+      "term": "error",
+      "definition_en": "A discrepancy between an observed or computed value and its specified or correct reference.",
+      "explanation_pt": "Uma discrepância entre um valor observado ou calculado e sua referência especificada ou correta.",
+      "source_files": [
+        "references/sevocab/error.json"
+      ],
+      "source_status": "EDITORIAL_WITH_SOURCE_CONTEXT"
+    },
+    {
+      "term": "defect",
+      "definition_en": "A flaw in an artifact relative to an applicable requirement.",
+      "explanation_pt": "Uma deficiência em um artefato em relação a um requisito aplicável.",
+      "source_files": [
+        "references/sevocab/defect.json"
+      ],
+      "source_status": "EDITORIAL_WITH_SOURCE_CONTEXT"
+    },
+    {
+      "term": "test case",
+      "definition_en": "Inputs, conditions and expected results used to evaluate a specific behavior.",
+      "explanation_pt": "Entradas, condições e resultados esperados usados para avaliar um comportamento específico.",
+      "source_files": [
+        "references/sevocab/test-case.json"
+      ],
+      "source_status": "EDITORIAL_WITH_SOURCE_CONTEXT"
+    },
+    {
+      "term": "warning",
+      "definition_en": "A notice of a concern with an explicitly defined response; it does not grant authority.",
+      "explanation_pt": "Um aviso sobre uma preocupação com resposta explicitamente definida; ele não concede autorização.",
+      "source_files": [],
+      "source_status": "EDITORIAL_NO_STANDARD_DEFINITION_CLAIM"
+    },
+    {
+      "term": "evidence",
+      "definition_en": "A recorded observation or result used to assess a claim, with its origin and limits.",
+      "explanation_pt": "Uma observação ou resultado registrado para avaliar uma afirmação, com sua origem e seus limites.",
+      "source_files": [],
+      "source_status": "EDITORIAL_NO_STANDARD_DEFINITION_CLAIM"
+    },
+    {
+      "term": "hypothesis",
+      "definition_en": "A claim with a defined way to seek supporting observations and counterexamples.",
+      "explanation_pt": "Uma afirmação com uma forma definida de buscar observações de apoio e contraexemplos.",
+      "source_files": [],
+      "source_status": "EDITORIAL_NO_STANDARD_DEFINITION_CLAIM"
+    },
+    {
+      "term": "prediction",
+      "definition_en": "A claim recorded before the outcome, with admissible inputs and a defined future horizon.",
+      "explanation_pt": "Uma afirmação registrada antes do resultado, com entradas admissíveis e horizonte futuro definido.",
+      "source_files": [],
+      "source_status": "EDITORIAL_NO_STANDARD_DEFINITION_CLAIM"
+    },
+    {
+      "term": "MUST",
+      "definition_en": "An absolute requirement when the specification adopts BCP 14.",
+      "explanation_pt": "Uma exigência obrigatória quando a especificação adota o BCP 14.",
+      "source_files": [
+        "references/rfc/rfc2119.txt",
+        "references/rfc/rfc8174.txt"
+      ],
+      "source_status": "EDITORIAL_WITH_SOURCE_CONTEXT"
+    },
+    {
+      "term": "MUST NOT",
+      "definition_en": "An absolute prohibition when the specification adopts BCP 14.",
+      "explanation_pt": "Uma proibição obrigatória quando a especificação adota o BCP 14.",
+      "source_files": [
+        "references/rfc/rfc2119.txt",
+        "references/rfc/rfc8174.txt"
+      ],
+      "source_status": "EDITORIAL_WITH_SOURCE_CONTEXT"
+    },
+    {
+      "term": "SHOULD",
+      "definition_en": "A recommendation; an exception requires understanding and weighing its implications.",
+      "explanation_pt": "Uma recomendação; uma exceção exige compreender e ponderar suas consequências.",
+      "source_files": [
+        "references/rfc/rfc2119.txt",
+        "references/rfc/rfc8174.txt"
+      ],
+      "source_status": "EDITORIAL_WITH_SOURCE_CONTEXT"
+    },
+    {
+      "term": "SHOULD NOT",
+      "definition_en": "A negative recommendation; an exception requires understanding and weighing its implications.",
+      "explanation_pt": "Uma recomendação contrária; uma exceção exige compreender e ponderar suas consequências.",
+      "source_files": [
+        "references/rfc/rfc2119.txt",
+        "references/rfc/rfc8174.txt"
+      ],
+      "source_status": "EDITORIAL_WITH_SOURCE_CONTEXT"
+    },
+    {
+      "term": "MAY",
+      "definition_en": "An optional choice when the specification adopts BCP 14.",
+      "explanation_pt": "Uma escolha opcional quando a especificação adota o BCP 14.",
+      "source_files": [
+        "references/rfc/rfc2119.txt",
+        "references/rfc/rfc8174.txt"
+      ],
+      "source_status": "EDITORIAL_WITH_SOURCE_CONTEXT"
+    }
+  ]
+}

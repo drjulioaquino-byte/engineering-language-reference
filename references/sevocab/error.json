@@ -1,0 +1,15 @@
+{
+  "term": "error",
+  "status": "SELECTED_QUOTATION",
+  "definition_number": 1,
+  "definition_en": "discrepancy between a computed, observed, or measured value or condition and the true, specified, or theoretically correct value or condition",
+  "source_attributions": [
+    "(ISO/IEC/IEEE 15026-1:2025 Systems and software engineering--Systems and software assurance--Part 1: Vocabulary and concepts, 3.4.5)"
+  ],
+  "source_url": "https://sevocab.computer.org/sev_display/search.action?term=error&source=",
+  "copyright_notices": [
+    "Copyright©, 2026, IEEE. Used by permission.",
+    "Copyright © 2026 ISO/IEC. Source cited in source_attributions."
+  ],
+  "extraction": "Visible definition and source text; whitespace normalized; not a full entry or HTML mirror."
+}

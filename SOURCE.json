@@ -1,0 +1,186 @@
+{
+  "format_version": 1,
+  "retrieved_at": "2026-10-31T16:51:00.293750+00:00",
+  "files": [
+    {
+      "path": "references/asd-ste100/LICENSE",
+      "source_url": "https://raw.githubusercontent.com/nuelcyoung/asd-ste100/3fe2ccb51b1a98fb8d40aa88ec448575b8439ddb/LICENSE",
+      "revision": "3fe2ccb51b1a98fb8d40aa88ec448575b8439ddb",
+      "license": "MIT; see adjacent LICENSE",
+      "copy_mode": "BYTE_COPY",
+      "bytes": 1078,
+      "sha256": "f896090fe5def849c96a9354a201cf5b0cae8c8fa7d5a26838551af7bedcebc2"
+    },
+    {
+      "path": "references/asd-ste100/README.md",
+      "source_url": "https://raw.githubusercontent.com/nuelcyoung/asd-ste100/3fe2ccb51b1a98fb8d40aa88ec448575b8439ddb/README.md",
+      "revision": "3fe2ccb51b1a98fb8d40aa88ec448575b8439ddb",
+      "license": "MIT; see adjacent LICENSE",
+      "copy_mode": "BYTE_COPY",
+      "bytes": 4476,
+      "sha256": "e5aa9e4d1979144ef041d9ca089a443a92a2360fb1ec623be746bfea756df2b8"
+    },
+    {
+      "path": "references/asd-ste100/SKILL.md",
+      "source_url": "https://raw.githubusercontent.com/nuelcyoung/asd-ste100/3fe2ccb51b1a98fb8d40aa88ec448575b8439ddb/SKILL.md",
+      "revision": "3fe2ccb51b1a98fb8d40aa88ec448575b8439ddb",
+      "license": "MIT; see adjacent LICENSE",
+      "copy_mode": "BYTE_COPY",
+      "bytes": 19246,
+      "sha256": "f1fa42763d0d2893bbb27e0722b2feb1cdd1a289545173325f2c2d7c6fd3dcee"
+    },
+    {
+      "path": "references/asd-ste100/references/background.md",
+      "source_url": "https://raw.githubusercontent.com/nuelcyoung/asd-ste100/3fe2ccb51b1a98fb8d40aa88ec448575b8439ddb/references/background.md",
+      "revision": "3fe2ccb51b1a98fb8d40aa88ec448575b8439ddb",
+      "license": "MIT; see adjacent LICENSE",
+      "copy_mode": "BYTE_COPY",
+      "bytes": 7280,
+      "sha256": "66b5ae89b3a1a4aa51c2bc0104808712188d84ca8fbf477b442758e62a49abf1"
+    },
+    {
+      "path": "references/asd-ste100/references/checklist.md",
+      "source_url": "https://raw.githubusercontent.com/nuelcyoung/asd-ste100/3fe2ccb51b1a98fb8d40aa88ec448575b8439ddb/references/checklist.md",
+      "revision": "3fe2ccb51b1a98fb8d40aa88ec448575b8439ddb",
+      "license": "MIT; see adjacent LICENSE",
+      "copy_mode": "BYTE_COPY",
+      "bytes": 11509,
+      "sha256": "e55064222ec3c2e14330174a02c68af7cc0bf4a84777beef774b3e0bb374caf7"
+    },
+    {
+      "path": "references/asd-ste100/references/dictionary-access.md",
+      "source_url": "https://raw.githubusercontent.com/nuelcyoung/asd-ste100/3fe2ccb51b1a98fb8d40aa88ec448575b8439ddb/references/dictionary-access.md",
+      "revision": "3fe2ccb51b1a98fb8d40aa88ec448575b8439ddb",
+      "license": "MIT; see adjacent LICENSE",
+      "copy_mode": "BYTE_COPY",
+      "bytes": 4622,
+      "sha256": "ff86c83f1d3ff3858e607050c59fbc23849266a28f46f9d3ba25db938032f649"
+    },
+    {
+      "path": "references/asd-ste100/references/dictionary.md",
+      "source_url": "https://raw.githubusercontent.com/nuelcyoung/asd-ste100/3fe2ccb51b1a98fb8d40aa88ec448575b8439ddb/references/dictionary.md",
+      "revision": "3fe2ccb51b1a98fb8d40aa88ec448575b8439ddb",
+      "license": "MIT; see adjacent LICENSE",
+      "copy_mode": "BYTE_COPY",
+      "bytes": 10989,
+      "sha256": "28300cb1271a191011fa3ad7971ea4e329b74753bdfb6a91b36110758c26cda6"
+    },
+    {
+      "path": "references/asd-ste100/references/meaning-fidelity.md",
+      "source_url": "https://raw.githubusercontent.com/nuelcyoung/asd-ste100/3fe2ccb51b1a98fb8d40aa88ec448575b8439ddb/references/meaning-fidelity.md",
+      "revision": "3fe2ccb51b1a98fb8d40aa88ec448575b8439ddb",
+      "license": "MIT; see adjacent LICENSE",
+      "copy_mode": "BYTE_COPY",
+      "bytes": 12441,
+      "sha256": "353fa16ed58f50e4809f0f03ec74e271562ed539d1a1a3d40bddf8e17793e4f2"
+    },
+    {
+      "path": "references/asd-ste100/references/pos-analysis.md",
+      "source_url": "https://raw.githubusercontent.com/nuelcyoung/asd-ste100/3fe2ccb51b1a98fb8d40aa88ec448575b8439ddb/references/pos-analysis.md",
+      "revision": "3fe2ccb51b1a98fb8d40aa88ec448575b8439ddb",
+      "license": "MIT; see adjacent LICENSE",
+      "copy_mode": "BYTE_COPY",
+      "bytes": 8228,
+      "sha256": "1517dd1f06ca7b159719b27af1b622f8c347275af5f52a50ddea76d5ab42f570"
+    },
+    {
+      "path": "references/asd-ste100/references/writing-rules.md",
+      "source_url": "https://raw.githubusercontent.com/nuelcyoung/asd-ste100/3fe2ccb51b1a98fb8d40aa88ec448575b8439ddb/references/writing-rules.md",
+      "revision": "3fe2ccb51b1a98fb8d40aa88ec448575b8439ddb",
+      "license": "MIT; see adjacent LICENSE",
+      "copy_mode": "BYTE_COPY",
+      "bytes": 8326,
+      "sha256": "65cd1be15842cc55d8dce1d851ae8aaa4f98ad1135bce292dc6dd7fbbe7f249f"
+    },
+    {
+      "path": "references/rfc/rfc2119.txt",
+      "source_url": "https://www.rfc-editor.org/rfc/rfc2119.txt",
+      "revision": "RFC 2119",
+      "license": "Original document notices and IETF reproduction terms",
+      "copy_mode": "BYTE_COPY",
+      "bytes": 4723,
+      "sha256": "3c2ceb7bfc84cd34720f4a5271338ab9d8280d34bdd1eb250c64306202f2ed8b"
+    },
+    {
+      "path": "references/rfc/rfc8174.txt",
+      "source_url": "https://www.rfc-editor.org/rfc/rfc8174.txt",
+      "revision": "RFC 8174",
+      "license": "Original document notices and IETF reproduction terms",
+      "copy_mode": "BYTE_COPY",
+      "bytes": 6071,
+      "sha256": "5ca0e2f90be0bc5928ee465f76518fee316dfa775aed885658a29a419cc293b7"
+    },
+    {
+      "path": "references/sevocab/defect.json",
+      "source_url": "https://sevocab.computer.org/sev_display/search.action?term=defect&source=",
+      "revision": "Online SEVOCAB; edition and clause are in source_attributions",
+      "license": "SEVOCAB per-definition copying notice; source and notices retained",
+      "copy_mode": "EXTRACTED_QUOTATION",
+      "bytes": 756,
+      "sha256": "3d07e6e6fb7727dccf120ee8f7a80ef526b147edca8ba3cfba01044a486df2ca"
+    },
+    {
+      "path": "references/sevocab/error.json",
+      "source_url": "https://sevocab.computer.org/sev_display/search.action?term=error&source=",
+      "revision": "Online SEVOCAB; edition and clause are in source_attributions",
+      "license": "SEVOCAB per-definition copying notice; source and notices retained",
+      "copy_mode": "EXTRACTED_QUOTATION",
+      "bytes": 773,
+      "sha256": "542a3ae791b14333e2e4e89428e613112b408d2de721090ddc7d5673686d0bc9"
+    },
+    {
+      "path": "references/sevocab/failure.json",
+      "source_url": "https://sevocab.computer.org/sev_display/search.action?term=failure&source=",
+      "revision": "Online SEVOCAB; edition and clause are in source_attributions",
+      "license": "SEVOCAB per-definition copying notice; source and notices retained",
+      "copy_mode": "EXTRACTED_QUOTATION",
+      "bytes": 641,
+      "sha256": "aacbc044c56e3084ed93ab8c533218c3f83811690eb6a3e992bae42469ada5b0"
+    },
+    {
+      "path": "references/sevocab/fault.json",
+      "source_url": "https://sevocab.computer.org/sev_display/search.action?term=fault&source=",
+      "revision": "Online SEVOCAB; edition and clause are in source_attributions",
+      "license": "SEVOCAB per-definition copying notice; source and notices retained",
+      "copy_mode": "EXTRACTED_QUOTATION",
+      "bytes": 690,
+      "sha256": "83784c2ee1793aa87ac1bf6af020391fc091a11181a9bce90fafbee3f325f585"
+    },
+    {
+      "path": "references/sevocab/requirement.json",
+      "source_url": "https://sevocab.computer.org/sev_display/search.action?term=requirement&source=",
+      "revision": "Online SEVOCAB; edition and clause are in source_attributions",
+      "license": "SEVOCAB per-definition copying notice; source and notices retained",
+      "copy_mode": "EXTRACTED_QUOTATION",
+      "bytes": 801,
+      "sha256": "bf5cad6cb9fe8fc479fc895428538620e5e6e67053e2a4e86d08774fab752876"
+    },
+    {
+      "path": "references/sevocab/test-case.json",
+      "source_url": "https://sevocab.computer.org/sev_display/search.action?term=test%20case&source=",
+      "revision": "Online SEVOCAB; edition and clause are in source_attributions",
+      "license": "SEVOCAB per-definition copying notice; source and notices retained",
+      "copy_mode": "EXTRACTED_QUOTATION",
+      "bytes": 809,
+      "sha256": "558b1eb22e82c5f4e0a97ab4b39f4aff902b292b69e8d9bb0819ce9d5a158c78"
+    },
+    {
+      "path": "references/sevocab/validation.json",
+      "source_url": "https://sevocab.computer.org/sev_display/search.action?term=validation&source=",
+      "revision": "Online SEVOCAB; edition and clause are in source_attributions",
+      "license": "SEVOCAB per-definition copying notice; source and notices retained",
+      "copy_mode": "EXTRACTED_QUOTATION",
+      "bytes": 911,
+      "sha256": "2ba5d94d909f514af3cb1fd91561f2f664c9626c3eb838e98988aa418e4523fd"
+    },
+    {
+      "path": "references/sevocab/verification.json",
+      "source_url": "https://sevocab.computer.org/sev_display/search.action?term=verification&source=",
+      "revision": "Online SEVOCAB; edition and clause are in source_attributions",
+      "license": "SEVOCAB per-definition copying notice; source and notices retained",
+      "copy_mode": "EXTRACTED_QUOTATION",
+      "bytes": 979,
+      "sha256": "2193ca16bcd82daaac046f299b43c94089ea2ba7bc49f515a7c2fb86a058e13b"
+    }
+  ]
+}
