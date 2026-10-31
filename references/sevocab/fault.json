@@ -1,0 +1,15 @@
+{
+  "term": "fault",
+  "status": "SELECTED_QUOTATION",
+  "definition_number": 1,
+  "definition_en": "inability to perform as required, due to an internal state",
+  "source_attributions": [
+    "(ISO/IEC/IEEE 15026-1:2025 Systems and software engineering--Systems and software assurance--Part 1: Vocabulary and concepts, 3.4.8)"
+  ],
+  "source_url": "https://sevocab.computer.org/sev_display/search.action?term=fault&source=",
+  "copyright_notices": [
+    "Copyright©, 2026, IEEE. Used by permission.",
+    "Copyright © 2026 ISO/IEC. Source cited in source_attributions."
+  ],
+  "extraction": "Visible definition and source text; whitespace normalized; not a full entry or HTML mirror."
+}

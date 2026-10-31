@@ -1,0 +1,15 @@
+{
+  "term": "test case",
+  "status": "SELECTED_QUOTATION",
+  "definition_number": 1,
+  "definition_en": "set of test inputs, execution conditions, and expected results developed for a particular objective, such as to exercise a particular program path or to verify compliance with a specific requirement",
+  "source_attributions": [
+    "(IEEE 1012-2024 IEEE Standard for System, Software, and Hardware Verification and Validation, 3.3.31)"
+  ],
+  "source_url": "https://sevocab.computer.org/sev_display/search.action?term=test%20case&source=",
+  "copyright_notices": [
+    "Copyright©, 2026, IEEE. Used by permission.",
+    "Copyright © 2026 ISO/IEC. Source cited in source_attributions."
+  ],
+  "extraction": "Visible definition and source text; whitespace normalized; not a full entry or HTML mirror."
+}

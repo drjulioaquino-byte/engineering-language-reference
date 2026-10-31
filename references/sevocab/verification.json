@@ -1,0 +1,17 @@
+{
+  "term": "verification",
+  "status": "SELECTED_QUOTATION",
+  "definition_number": 1,
+  "definition_en": "confirmation, through the provision of objective evidence, that specified requirements have been fulfilled",
+  "source_attributions": [
+    "(ISO/IEC 25000:2014 Systems and software Engineering--Systems and software product Quality Requirements and Evaluation (SQuaRE) -- Guide to SQuaRE, 4.43)",
+    "(ISO/IEC/IEEE 12207:2026 Systems and software engineering--Software life cycle processes, 3.1.72)",
+    "(ISO/IEC/IEEE 15288:2023 Systems and software engineering--System life cycle processes, 3.55)"
+  ],
+  "source_url": "https://sevocab.computer.org/sev_display/search.action?term=verification&source=",
+  "copyright_notices": [
+    "Copyright©, 2026, IEEE. Used by permission.",
+    "Copyright © 2026 ISO/IEC. Source cited in source_attributions."
+  ],
+  "extraction": "Visible definition and source text; whitespace normalized; not a full entry or HTML mirror."
+}

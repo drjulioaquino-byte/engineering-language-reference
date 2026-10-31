@@ -1,0 +1,16 @@
+{
+  "term": "requirement",
+  "status": "SELECTED_QUOTATION",
+  "definition_number": 1,
+  "definition_en": "statement that translates or expresses a need and its associated constraints and conditions",
+  "source_attributions": [
+    "(ISO/IEC/IEEE 12207:2026 Systems and software engineering--Software life cycle processes, 4.1.31)",
+    "(ISO/IEC/IEEE 15288:2023 Systems and software engineering--System life cycle processes, 3.36)"
+  ],
+  "source_url": "https://sevocab.computer.org/sev_display/search.action?term=requirement&source=",
+  "copyright_notices": [
+    "Copyright©, 2026, IEEE. Used by permission.",
+    "Copyright © 2026 ISO/IEC. Source cited in source_attributions."
+  ],
+  "extraction": "Visible definition and source text; whitespace normalized; not a full entry or HTML mirror."
+}

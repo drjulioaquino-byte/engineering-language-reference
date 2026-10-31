@@ -1,0 +1,15 @@
+{
+  "term": "defect",
+  "status": "SELECTED_QUOTATION",
+  "definition_number": 1,
+  "definition_en": "imperfection or deficiency in a work product or characteristic that does not meet its requirements or specifications",
+  "source_attributions": [
+    "(IEEE 2675-2021, IEEE Standard for DevOps: Building Reliable and Secure Systems Including Application Build, Package, and Deployment, 3.1)"
+  ],
+  "source_url": "https://sevocab.computer.org/sev_display/search.action?term=defect&source=",
+  "copyright_notices": [
+    "Copyright©, 2026, IEEE. Used by permission.",
+    "Copyright © 2026 ISO/IEC. Source cited in source_attributions."
+  ],
+  "extraction": "Visible definition and source text; whitespace normalized; not a full entry or HTML mirror."
+}

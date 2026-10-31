@@ -1,0 +1,15 @@
+{
+  "term": "failure",
+  "status": "SELECTED_QUOTATION",
+  "definition_number": 1,
+  "definition_en": "departure of system behavior from system requirements",
+  "source_attributions": [
+    "(IEEE 982:2024, Standard for Measures of the Software Aspects of Dependability, 3.1)"
+  ],
+  "source_url": "https://sevocab.computer.org/sev_display/search.action?term=failure&source=",
+  "copyright_notices": [
+    "Copyright©, 2026, IEEE. Used by permission.",
+    "Copyright © 2026 ISO/IEC. Source cited in source_attributions."
+  ],
+  "extraction": "Visible definition and source text; whitespace normalized; not a full entry or HTML mirror."
+}
