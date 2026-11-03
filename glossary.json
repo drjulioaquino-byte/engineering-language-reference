@@ -103,6 +103,104 @@
       "source_status": "EDITORIAL_NO_STANDARD_DEFINITION_CLAIM"
     },
     {
+      "term": "implementer",
+      "definition_en": "The agent that plans and changes code in its own branch and opens the pull request; it cannot merge or decide.",
+      "explanation_pt": "O agente que planeja e altera o código em branch próprio e abre o pull request; não faz merge nem decide.",
+      "source_files": [],
+      "source_status": "EDITORIAL_NO_STANDARD_DEFINITION_CLAIM"
+    },
+    {
+      "term": "reviewer",
+      "definition_en": "The agent that audits a plan or pull request with evidence and recommends; it cannot order, write the change or decide.",
+      "explanation_pt": "O agente que audita um plano ou pull request com evidências e recomenda; não dá ordens, não escreve a mudança e não decide.",
+      "source_files": [],
+      "source_status": "EDITORIAL_NO_STANDARD_DEFINITION_CLAIM"
+    },
+    {
+      "term": "human authority",
+      "definition_en": "The person who decides what to do, what to correct and whether to merge; no agent holds this role.",
+      "explanation_pt": "A pessoa que decide o que fazer, o que corrigir e se faz o merge; nenhum agente ocupa esse papel.",
+      "source_files": [],
+      "source_status": "EDITORIAL_NO_STANDARD_DEFINITION_CLAIM"
+    },
+    {
+      "term": "self-review",
+      "definition_en": "A review produced by the implementer or its own tooling; it is never independent review.",
+      "explanation_pt": "Uma revisão feita pelo implementador ou por suas próprias ferramentas; nunca é revisão independente.",
+      "source_files": [],
+      "source_status": "EDITORIAL_NO_STANDARD_DEFINITION_CLAIM"
+    },
+    {
+      "term": "independent review",
+      "definition_en": "A review by a party other than the implementer, bound to one exact head SHA.",
+      "explanation_pt": "Uma revisão feita por alguém diferente do implementador, vinculada a um head SHA exato.",
+      "source_files": [],
+      "source_status": "EDITORIAL_NO_STANDARD_DEFINITION_CLAIM"
+    },
+    {
+      "term": "finding",
+      "definition_en": "A numbered review result with location, evidence, consequence, recommendation and a resolution criterion.",
+      "explanation_pt": "Um resultado de revisão numerado, com local, evidência, consequência, recomendação e critério de resolução.",
+      "source_files": [],
+      "source_status": "EDITORIAL_NO_STANDARD_DEFINITION_CLAIM"
+    },
+    {
+      "term": "resolution criterion",
+      "definition_en": "The observable result that shows a finding was corrected.",
+      "explanation_pt": "O resultado observável que mostra que um achado foi corrigido.",
+      "source_files": [],
+      "source_status": "EDITORIAL_NO_STANDARD_DEFINITION_CLAIM"
+    },
+    {
+      "term": "head SHA",
+      "definition_en": "The full commit identifier of the pull request tip that a review or test applies to.",
+      "explanation_pt": "O identificador completo do commit no topo do pull request ao qual uma revisão ou teste se aplica.",
+      "source_files": [],
+      "source_status": "EDITORIAL_NO_STANDARD_DEFINITION_CLAIM"
+    },
+    {
+      "term": "checkpoint",
+      "definition_en": "A record, before a merge decision, of head, base, test results, findings and open comments.",
+      "explanation_pt": "Um registro, antes da decisão de merge, de head, base, resultados de teste, achados e comentários em aberto.",
+      "source_files": [],
+      "source_status": "EDITORIAL_NO_STANDARD_DEFINITION_CLAIM"
+    },
+    {
+      "term": "preflight",
+      "definition_en": "A written plan before implementation: order, scope, permissions, exclusions, risks and completion condition.",
+      "explanation_pt": "Um plano escrito antes de implementar: ordem, escopo, permissões, exclusões, riscos e condição de conclusão.",
+      "source_files": [],
+      "source_status": "EDITORIAL_NO_STANDARD_DEFINITION_CLAIM"
+    },
+    {
+      "term": "postflight",
+      "definition_en": "A written record after implementation of what was executed, its results and its limits.",
+      "explanation_pt": "Um registro escrito depois de implementar, com o que foi executado, os resultados e os limites.",
+      "source_files": [],
+      "source_status": "EDITORIAL_NO_STANDARD_DEFINITION_CLAIM"
+    },
+    {
+      "term": "decision record",
+      "definition_en": "A stored human choice with options, the chosen option, time, validity and the change it authorizes.",
+      "explanation_pt": "Uma escolha humana registrada, com opções, opção escolhida, horário, validade e a mudança que ela autoriza.",
+      "source_files": [],
+      "source_status": "EDITORIAL_NO_STANDARD_DEFINITION_CLAIM"
+    },
+    {
+      "term": "bounded order",
+      "definition_en": "A human authorization limited to one scope and one validity period that never includes merge.",
+      "explanation_pt": "Uma autorização humana limitada a um escopo e a um prazo de validade, que nunca inclui o merge.",
+      "source_files": [],
+      "source_status": "EDITORIAL_NO_STANDARD_DEFINITION_CLAIM"
+    },
+    {
+      "term": "correction cycle",
+      "definition_en": "Rounds of review and correction inside the scope of one decision; a scope change needs a new decision.",
+      "explanation_pt": "Rodadas de revisão e correção dentro do escopo de uma decisão; mudança de escopo exige nova decisão.",
+      "source_files": [],
+      "source_status": "EDITORIAL_NO_STANDARD_DEFINITION_CLAIM"
+    },
+    {
       "term": "MUST",
       "definition_en": "An absolute requirement when the specification adopts BCP 14.",
       "explanation_pt": "Uma exigência obrigatória quando a especificação adota o BCP 14.",
