@@ -26,7 +26,7 @@ class GlossaryTests(unittest.TestCase):
         (self.root / "glossary.json").write_text(json.dumps(value), encoding="utf-8")
 
     def test_bilingual_reading_view_matches_structured_glossary(self):
-        self.assertEqual(glossary.verify(self.root), 17)
+        self.assertEqual(glossary.verify(self.root), 31)
 
     def test_duplicate_term_fails(self):
         self.data["entries"].append(copy.deepcopy(self.data["entries"][0]))
